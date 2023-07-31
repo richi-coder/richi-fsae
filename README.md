@@ -1,6 +1,6 @@
-<h1 align="center">richi-FSAE</h1>
+<img src='https://pbs.twimg.com/media/F2ZLr3mW4AAQxLL?format=jpg&name=small' align='center' />
 
-<img src='https://pbs.twimg.com/media/F2ZLr3mW4AAQxLL?format=jpg&name=small' />
+<h1 align="center">richi-FSAE</h1>
 
 <p align="center">
   Feel yourself competing in Michigan!
