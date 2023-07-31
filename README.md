@@ -1,34 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">richi-FSAE</h1>
 
-## Getting Started
+<p align="center">
+  Feel yourself competing in Michigan!
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="https://twitter.com/RichiCoder">
+    <img src="https://img.shields.io/twitter/follow/RichiCoder?style=flat&label=RichiCoder&logo=twitter&color=0bf&logoColor=fff" alt="richiCoder" />
+  </a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<p align="center">
+  <a href="#introduction"><strong>Introduction</strong></a> ·
+  <a href="#tech-stack--features"><strong>Tech Stack + Features</strong></a> ·
+  <a href="#author"><strong>Author</strong></a>
+</p>
+<br/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Introduction
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+richi-FSAE is a racing game project made by an ex-fsae member at UNET.
+The main idea is to get a simple game based on Formula SAE Michigan events, like: SkidPad and Autocross.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack + Features
 
-## Learn More
+https://twitter.com/i/status/1686093698801565696
 
-To learn more about Next.js, take a look at the following resources:
+### Frameworks
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js](https://nextjs.org/) – React framework for building performant apps with the best developer experience
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Platforms
 
-## Deploy on Vercel
+- [Vercel](https://vercel.com/) – Easily preview & deploy changes with git
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### UI
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development
+- [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) – Optimize custom fonts and remove external network requests for improved performance
+
+### Hooks and Utilities
+
+- `useState` – Manage state with useState React hook
+- `useContext` – Manage and share state with useContext React hook between components
+- `getPlaiceholder` – Helps bringing blur images when loading them
+- `react-icons` – Easily add icons to react/nextjs projects
+- `react-youtube` – Used for streaming trailers
+
+### Code Quality
+
+- [TypeScript](https://www.typescriptlang.org/) – Static type checker for end-to-end typesafety
+- [Prettier](https://prettier.io/) – Opinionated code formatter for consistent code style
+- [ESLint](https://eslint.org/) – Pluggable linter for Next.js and TypeScript
+
+### Miscellaneous
+
+- [Vercel Analytics](https://vercel.com/analytics) – Track unique visitors, pageviews, and more in a privacy-friendly way
+
+## Author
+
+- richiCoder ([@RichiCoder](https://twitter.com/RichiCoder))
